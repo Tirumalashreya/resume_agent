@@ -1,0 +1,56 @@
+
+--- SKILL ANALYSIS ---
+Technical Skills: aws, data analysis, excel, gcp, machine learning, mysql, numpy, pandas, postgresql, power bi, python, sql, tableau
+Soft Skills: analytical, communication, leadership, learning, problem-solving
+Domain Skills: agile, scrum, testing, ui
+
+--- ATS-OPTIMIZED RESUME ---
+Jane Smith
+Email: janesmith@email.com, Phone: (987) 654-3210
+
+PROFESSIONAL SUMMARY
+Experienced professional with a strong background in software development and project delivery.
+Adept at leveraging modern technologies to build scalable and efficient solutions.
+Key skills aligned with target role: aws, data analysis, excel, gcp, numpy
+
+TECHNICAL SKILLS
+• Programming Languages: Aws, Data Analysis, Excel, Gcp, Machine Learning, Mysql
+• Frameworks & Tools: Numpy, Pandas, Postgresql, Power Bi, Python, Sql
+• Databases & Cloud: Tableau
+• Development Practices: Agile, Scrum, Testing, Ui
+
+PROFESSIONAL EXPERIENCE
+
+Software Developer | Tech Solutions Inc. | 20XX - Present
+• Developed and maintained full-stack web applications, improving user engagement by X%.
+• Implemented robust backend APIs, supporting high-traffic user interactions.
+• Collaborated with cross-functional teams to define, design, and ship new features.
+• Participated in code reviews, ensuring high code quality and adherence to best practices.
+
+
+EDUCATION
+B.S. in Computer Science | University Name | 20XX
+
+CORE COMPETENCIES
+• Analytical, Communication, Leadership, Learning, Problem-Solving, Agile, Scrum, Testing
+
+=== ATS OPTIMIZATION FEATURES ===
+✓ Standard section headers for ATS parsing
+✓ Keyword optimization based on job requirements
+✓ Quantified achievements and metrics (where provided or templated)
+✓ Clean, professional formatting
+✓ Relevant technical skills prominently displayed
+✓ Action-oriented bullet points
+
+--- JOB MATCHING ANALYSIS ---
+Job Keywords Found in Resume: 14 matches detected
+Matched Skills: aws, data analysis, excel, gcp, numpy, pandas, power bi, python, sql, tableau, agile, scrum, testing, ui
+
+--- OPTIMIZATION RECOMMENDATIONS ---
+✓ Structured with ATS-friendly formatting
+✓ Incorporated relevant keywords from job description
+✓ Quantified achievements where possible (ensure your original resume has these)
+✓ Used action verbs and professional language
+✓ Optimized for keyword scanning systems
+✓ Clear section headers for ATS parsing
+    
